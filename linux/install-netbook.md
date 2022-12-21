@@ -1,7 +1,7 @@
 # Install Netbook
 
 Netbook Specs:
-- Acer Aspire One D250-1042
+- Acer Aspire One (D250-1042)
 - BIOS v1.29 (12/18/2010)
 - Intel Atom N270 @ 1.60GHz (512KB L2 & 32KB L1)
 - Hynix 2GB DDR2 533MHz SODIMM
