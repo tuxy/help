@@ -1,5 +1,17 @@
 # Install Netbook
-_Acer Aspire One D250_
+
+Netbook Specs:
+- Acer Aspire One D250-1042
+- BIOS v1.29 (12/18/2010)
+- Intel Atom N270 @ 1.60GHz (512KB L2 & 32KB L1)
+- Hynix 2GB DDR2 533MHz SODIMM
+- Kingston 480GB A400 SATA3 2.5" SSD (SA400S37/480G) (447GB formated space)
+- Mobile 945GSE Express Memory Controller
+- Mobile 945GM/GMS/GME, 943/940GML, Express Integrated Graphics Controller (VGA)
+- Intel NM10/ICH7 Family High Definition Audio Controller
+- Qualcomm Atheros AR242x/AR542x Wireless Network Adapter (PCI-Express)
+- Qualcomm Atheros AR8132 Fast Ethernet 10/100 Mbit/s
+- Intel 82801GBM/GHM (ICH7-M family) SATA Controller (AHCI mode)
 
 This is simple Arch Linux 32bit install guide by Tuxy.
 
